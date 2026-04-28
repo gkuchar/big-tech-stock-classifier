@@ -1,0 +1,3 @@
+notebook
+yfinance
+pandas_ta
