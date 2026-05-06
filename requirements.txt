@@ -1,3 +1,6 @@
 notebook
 yfinance
 pandas_ta
+pandas
+xgboost
+scikit-learn
